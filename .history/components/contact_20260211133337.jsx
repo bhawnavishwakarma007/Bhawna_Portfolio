@@ -11,8 +11,8 @@ const contactLinks = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+91-887154XXXX",
-    href: "tel:+91887154XXXX",
+    value: "+91-8871546180",
+    href: "tel:+918871546180",
   },
   {
     icon: Linkedin,
